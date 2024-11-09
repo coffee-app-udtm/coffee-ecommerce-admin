@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CoffeeEcommerceAdmin
+namespace CoffeeEcommerceAdmin._Form.Product
 {
     public partial class FormProduct : Form
     {
